@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "146037806208",
+    "project_id": "mediaplayerwithpg",
+    "storage_bucket": "mediaplayerwithpg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146037806208:android:c2f83efc5b3eee15dd0265",
+        "android_client_info": {
+          "package_name": "com.example.music_mix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146037806208-2rfbjn4ujgu6dr6sg9tpn6f66o2b4f4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zAbkg2ezgADuZh24QoR6_jf4ILaZXE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146037806208-2rfbjn4ujgu6dr6sg9tpn6f66o2b4f4f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146037806208-hv44r870d7o66r30qmbet8oeo720vlrn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mix.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
