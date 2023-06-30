@@ -12,7 +12,7 @@
 ## Screenshots
 <table>
     <tr>
-      <td align="center"><br/><sub><b>###Splash Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/splash.png" width="200px;" alt="splash"/><br/></td>
+      <td align="center"><br/><sub><b><h3>Splash Screen</h3></b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/splash.png" width="200px;" alt="splash"/><br/></td>
       <td align="center"><br/><sub><b>SignUp Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/signUp.png" width="200px;" alt="signUp"/><br/></td>
       <td align="center"><br/><sub><b>Email Verification Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/verification.png" width="200px;" alt="verification"/><br/></td>
       <td align="center"><br/><sub><b>Login Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/login.png" width="200px;" alt="login"/><br/></td>
