@@ -25,7 +25,7 @@
   </tr>
   <tr>
       <td align="center"><br/><sub><b>Playlists Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/playlist.png" width="200px;" alt="playlists"/><br/></td>
-      <td align="center"><br/><sub><b>Tracks Screen</b></sub><img src="https://raw.githubusercontent.comDharti1623/MediaPlayerWithPG/main/assets/images/screenshots/tracks.png" width="200px;" alt="tracks"/><br/></td>
+      <td align="center"><br/><sub><b>Tracks Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/tracks.png" width="200px;" alt="tracks"/><br/></td>
       <td align="center"><br/><sub><b>Albums Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/album.png" width="200px;" alt="albums"/><br/></td>
       <td align="center"><br/><sub><b>Artists Screen</b></sub><img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/artists.png" width="200px;" alt="artists"/><br/></td>
   </tr>
