@@ -11,7 +11,7 @@
 
 |  <h2><b>Screen</b></h2>   |                                                                             <h2><b>Image</b></h2>                                                                              |
 |:-------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|       <b>Splash</b>       |     <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/splash.png" height="200px;" width="200px;" alt="splash"/>     |
+|       <b>Splash</b>       |     <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/splash.png" width="200px;" alt="splash"/>     |
 |       <b>SignUp</b>       |             <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/signUp.png" width="200px;" alt="signUp"/>             |
 | <b>Email Verification</b> |       <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/verification.png" width="200px;" alt="verification"/>       |
 |       <b>Login</b>        |              <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/main/assets/images/screenshots/login.png" width="200px;" alt="login"/>              |
