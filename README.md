@@ -6,7 +6,7 @@
 
 ### Platform Support
 
-| Android | &#9989; |
+- Android : &#9989; 
 
 
 ## Screenshots
