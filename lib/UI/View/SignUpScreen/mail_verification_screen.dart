@@ -20,26 +20,26 @@ class MailVerificationScreen extends StatelessWidget {
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.only(
-              top: 8.0, bottom: 8.0, left: 22.0, right: 22.0),
+              top: 8.0, bottom: 8.0, left: 28.0, right: 28.0),
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
               SizedBox(height: size.height * 0.12),
               Image.asset(AppImages.openEnvelopeImage,width: size.width*0.2,),
-              SizedBox(height: size.height * 0.05),
+              SizedBox(height: size.height * 0.02),
               Text(AppStrings.verifyMailTxt,style: AppTxtStyle().verifyEmailTextStyle(context),),
-              SizedBox(height: size.height * 0.025),
+              SizedBox(height: size.height * 0.05),
               Text(AppStrings.resendMailDesc1Txt,style: AppTxtStyle().verifyEmailMsgTextStyle(context),textAlign: TextAlign.center),
               SizedBox(height: size.height * 0.02),
               Text(AppStrings.resendMailDesc2Txt,style: AppTxtStyle().verifyEmailMsgTextStyle(context),textAlign: TextAlign.center),
-              SizedBox(height: size.height * 0.04),
+              SizedBox(height: size.height * 0.1),
               PrettyButton(
                 backgroundColor: AppColor().disabledColor(context),
                 // backgroundColor: Colors.grey.shade300,
                 bottomShadowColor: AppColor().disabledColor(context),
                 // topShadowColor: AppColor().disabledColor(context),
-                height: size.height * 0.08,
-                width: size.width*0.5,
+                height: size.height * 0.065,
+                width: size.width*0.6,
                 innerPadding: const EdgeInsets.symmetric(vertical: 2),
                 outerPadding:
                     const EdgeInsets.symmetric(horizontal: 0, vertical: 10),
@@ -50,12 +50,12 @@ class MailVerificationScreen extends StatelessWidget {
                 child: Text(
                   AppStrings.continueTxt,
                   style: TextStyle(
-                      fontSize: 18,
+                      fontSize: 20,
                       fontWeight: FontWeight.w600,
                       color: AppColor().onPrimaryContainerColor(context)),
                 ),
               ),
-              SizedBox(height: size.height * 0.05),
+              SizedBox(height: size.height * 0.06),
               GestureDetector(
                 // onTap: ()=>mailVerificationController.sendVerificationEmail(),
                 child: Text(
@@ -66,6 +66,7 @@ class MailVerificationScreen extends StatelessWidget {
                       color: AppColor.bgBlueClr),
                 ),
               ),
+              SizedBox(height: size.height * 0.02),
               GestureDetector(
                 onTap: ()=>AuthenticationRepository.instance.logout(),
                 child: RichText(
