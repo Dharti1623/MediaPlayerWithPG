@@ -26,7 +26,7 @@
 |     <b>Offer List</b>     |          <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/tree/main/assets/images/screenshots/offerList.png" width="200px;" alt="offerList"/>          |
 |      <b>Payment</b>       |            <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/tree/main/assets/images/screenshots/payment.png" width="200px;" alt="payment"/>            |
 |   <b>Payment Failed</b>   |      <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/tree/main/assets/images/screenshots/payment_faild.png" width="200px;" alt="payment_faild"/>      |
-|  <b>Payment Success</b>   | <img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/tree/main/assets/images/screenshots/payment_successful.png" width="200px;" alt="payment_successful"/> |
+|  <b>Payment Success</b>   |<img src="https://raw.githubusercontent.com/Dharti1623/MediaPlayerWithPG/tree/main/assets/images/screenshots/payment_successful.png" width="100px;" alt="payment_successful"/>|
 
 
 ## Publisher
